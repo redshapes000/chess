@@ -13,7 +13,7 @@
 ## Installation
 
 ```bash
-git clone https://github.com/redshapes000/chess
+git clone https://github.com/Red-Shapes-Chess/chess.git
 ```
 
 Make sure you have downloaded git from https://git-scm.com/.
@@ -26,7 +26,7 @@ Make sure you have python from https://www.python.org/downloads/.
 To set up Red Shapes locally, download or clone the project files and open a terminal in the project's folder. Start a local web server by running `python -m http.server 8000`, then open your web browser and navigate to `http://localhost:8000`. Red Shapes should load immediately, allowing you to use it directly from your computer without needing any external hosting service. Make sure Python 3 is installed and added to your system PATH before running the command.
 
 ```bash
-git clone https://github.com/redshapes000/chess
+git clone https://github.com/Red-Shapes-Chess/chess.git
 cd chess
 python -m http.server 8000
 ```
@@ -64,7 +64,7 @@ Contributions are welcome and appreciated! Whether you're fixing bugs, improving
 Clone the repository and navigate to the project directory:
 
 ```bash
-git clone https://github.com/redshapes000/chess
+git clone https://github.com/Red-Shapes-Chess/chess.git
 cd chess
 ```
 
